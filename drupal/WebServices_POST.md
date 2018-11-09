@@ -3,5 +3,5 @@
 2.- Desde Restlet-Client -> http://localhost/drupal-8.6.1/rest/session/token
 ![image1](../images/drupal_WS_POST_1.png)
 
-3.- Desde Restlet-Client -> http://localhost/drupal-8.6.1/rest/session/token
+3.- Desde Restlet-Client
 ![image2](../images/drupal_WS_POST_2.png)
